@@ -29,7 +29,16 @@ namespace NetCore.Services.Data
 
 
             //복합키
+            modelBuilder.Entity<UserRolesByUser>().HasKey(c => new { c.UserId, c.RoleId });
 
+            //컬럼 기본값 지정
+            modelBuilder.Entity<User>(e =>
+            {
+                e.Property(c => c.IsMembershipWithdrawn).HasDefaultValue(value: false);
+            });
+
+            //Index 지정
+            modelBuilder.Entity<User>().HasIndex(c => new {c.UserEmail });
 
         }
     }

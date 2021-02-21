@@ -7,3 +7,12 @@
 /Users/soheelim/Projects/Practice/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.csproj.CoreCompileInputs.cache
 /Users/soheelim/Projects/Practice/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.dll
 /Users/soheelim/Projects/Practice/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.pdb
+/Users/soheelim/Projects/Lecture/NetCore.Data/bin/Debug/netcoreapp3.1/NetCore.Data.deps.json
+/Users/soheelim/Projects/Lecture/NetCore.Data/bin/Debug/netcoreapp3.1/NetCore.Data.dll
+/Users/soheelim/Projects/Lecture/NetCore.Data/bin/Debug/netcoreapp3.1/NetCore.Data.pdb
+/Users/soheelim/Projects/Lecture/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.csprojAssemblyReference.cache
+/Users/soheelim/Projects/Lecture/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.AssemblyInfoInputs.cache
+/Users/soheelim/Projects/Lecture/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.AssemblyInfo.cs
+/Users/soheelim/Projects/Lecture/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.csproj.CoreCompileInputs.cache
+/Users/soheelim/Projects/Lecture/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.dll
+/Users/soheelim/Projects/Lecture/NetCore.Data/obj/Debug/netcoreapp3.1/NetCore.Data.pdb

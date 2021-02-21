@@ -1,20 +1,30 @@
 ﻿<Properties StartupConfiguration="{E85AE102-0186-46AA-9A49-3AFECF74250D}|Default">
   <MonoDevelop.Ide.ItemProperties.NetCore.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NetCore.Data/DataModels/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetCore.Services/Data/CodeFirstDbContext.cs">
     <Files>
-      <File FileName="NetCore.Services/Data/CodeFirstDbContext.cs" Line="32" Column="1" />
-      <File FileName="NetCore.Data/DataModels/UserRole.cs" />
+      <File FileName="NetCore.Services/Data/CodeFirstDbContext.cs" Line="41" Column="75" />
+      <File FileName="NetCore.Data/DataModels/UserRole.cs" Line="19" Column="1" />
       <File FileName="NetCore.Data/ViewModels/LoginInfo.cs" Line="1" Column="1" />
       <File FileName="NetCore.Data/DataModels/User.cs" Line="1" Column="1" />
+      <File FileName="NetCore.Web/Controllers/MembershipController.cs" Line="1" Column="1" />
+      <File FileName="NetCore.Data/DataModels/UserRolesByUser.cs" Line="16" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lecture" expanded="True">
             <Node name="NetCore.Data" expanded="True">
-              <Node name="DataModels" expanded="True">
-                <Node name="User.cs" selected="True" />
+              <Node name="DataModels" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="NetCore.Services" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="CodeFirstDbContext.cs" selected="True" />
               </Node>
+              <Node name="Interface" expanded="True" />
+            </Node>
+            <Node name="NetCore.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
