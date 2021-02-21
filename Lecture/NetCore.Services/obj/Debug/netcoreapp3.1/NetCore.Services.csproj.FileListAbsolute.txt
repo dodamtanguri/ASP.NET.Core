@@ -1,0 +1,12 @@
+/Users/soheelim/Projects/Practice/NetCore.Services/bin/Debug/netcoreapp3.1/NetCore.Services.deps.json
+/Users/soheelim/Projects/Practice/NetCore.Services/bin/Debug/netcoreapp3.1/NetCore.Services.dll
+/Users/soheelim/Projects/Practice/NetCore.Services/bin/Debug/netcoreapp3.1/NetCore.Services.pdb
+/Users/soheelim/Projects/Practice/NetCore.Services/bin/Debug/netcoreapp3.1/NetCore.Data.dll
+/Users/soheelim/Projects/Practice/NetCore.Services/bin/Debug/netcoreapp3.1/NetCore.Data.pdb
+/Users/soheelim/Projects/Practice/NetCore.Services/obj/Debug/netcoreapp3.1/NetCore.Services.csprojAssemblyReference.cache
+/Users/soheelim/Projects/Practice/NetCore.Services/obj/Debug/netcoreapp3.1/NetCore.Services.AssemblyInfoInputs.cache
+/Users/soheelim/Projects/Practice/NetCore.Services/obj/Debug/netcoreapp3.1/NetCore.Services.AssemblyInfo.cs
+/Users/soheelim/Projects/Practice/NetCore.Services/obj/Debug/netcoreapp3.1/NetCore.Services.csproj.CoreCompileInputs.cache
+/Users/soheelim/Projects/Practice/NetCore.Services/obj/Debug/netcoreapp3.1/NetCore.Services.csproj.CopyComplete
+/Users/soheelim/Projects/Practice/NetCore.Services/obj/Debug/netcoreapp3.1/NetCore.Services.dll
+/Users/soheelim/Projects/Practice/NetCore.Services/obj/Debug/netcoreapp3.1/NetCore.Services.pdb

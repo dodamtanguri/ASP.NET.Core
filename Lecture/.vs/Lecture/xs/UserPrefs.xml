@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{28F8140D-AABC-44BF-B264-2057ED466657}|Default">
+  <MonoDevelop.Ide.ItemProperties.NetCore.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetCore.Services/Data/CodeFirstDbContext.cs">
+    <Files>
+      <File FileName="NetCore.Services/Data/CodeFirstDbContext.cs" Line="32" Column="1" />
+      <File FileName="NetCore.Data/DataModels/User.cs" />
+      <File FileName="NetCore.Data/DataModels/UserRole.cs" Line="11" Column="1" />
+      <File FileName="NetCore.Data/ViewModels/LoginInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lecture" expanded="True">
+            <Node name="NetCore.Data" expanded="True">
+              <Node name="DataModels" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="NetCore.Services" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Interface" expanded="True" selected="True" />
+              <Node name="Svcs" expanded="True" />
+            </Node>
+            <Node name="NetCore.Web" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

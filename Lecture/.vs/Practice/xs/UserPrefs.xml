@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{28F8140D-AABC-44BF-B264-2057ED466657}|Default">
+  <MonoDevelop.Ide.ItemProperties.NetCore.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetCore.Data/DataModels/UserRole.cs">
+    <Files>
+      <File FileName="NetCore.Services/Data/CodeFirstDbContext.cs" Line="32" Column="1" />
+      <File FileName="NetCore.Data/DataModels/User.cs" />
+      <File FileName="NetCore.Data/DataModels/UserRole.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice" expanded="True">
+            <Node name="NetCore.Data" expanded="True">
+              <Node name="DataModels" expanded="True">
+                <Node name="UserRole.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="NetCore.Services" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Svcs" expanded="True" />
+            </Node>
+            <Node name="NetCore.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Membership" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>.</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
